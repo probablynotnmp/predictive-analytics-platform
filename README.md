@@ -1,4 +1,4 @@
-# 🔮 Predictive Analytics Platform
+# Predictive Analytics Platform
 
 > **"Predicting the future isn't magic, it's data science."**
 
