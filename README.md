@@ -53,8 +53,6 @@ graph TD
 
 ## 🚀 Quick Start
 
-Want to see it in action?
-
 ### 1. Setup
 ```bash
 # Clone the repo
@@ -82,7 +80,7 @@ uvicorn src.api.main:app --reload --port 8000
 python src/visualization/dashboard.py
 ```
 
-Visit the **Dashboard** at `http://localhost:8050` to explore the insights!
+Visit the **Dashboard** at `http://localhost:8050`, and Done!
 
 ## 📊 API Documentation
 
