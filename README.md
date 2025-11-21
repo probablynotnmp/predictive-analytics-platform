@@ -1,7 +1,5 @@
 # Predictive Analytics Platform
 
-> **"Predicting the future isn't magic, it's data science."**
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.103-green)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7-orange)
@@ -10,9 +8,7 @@
 
 ## 👨‍💻 About The Project
 
-Hi there! I'm a recent AI & Data Science graduate, and this **Predictive Analytics Platform** is my flagship portfolio project. 
-
-I built this platform to bridge the gap between raw customer data and actionable business insights. In the real world, data doesn't just sit there; it tells a story. My goal was to build a system that listens to that story and predicts the next chapter.
+Hi there! I built this platform to bridge the gap between raw customer data and actionable business insights. In the real world, data doesn't just sit there; it tells a story. My goal was to build a system that listens to that story and predicts the next chapter.
 
 This isn't just a collection of scripts; it's a **production-grade architecture** demonstrating how ML models can be deployed as microservices, complete with real-time APIs, interactive dashboards, and automated pipelines.
 
@@ -90,7 +86,7 @@ Visit the **Dashboard** at `http://localhost:8050` to explore the insights!
 
 ## 📊 API Documentation
 
-I believe good code documents itself. The API comes with full Swagger UI documentation.
+I believe good code documents itself. The API comes with full UI documentation.
 Once running, visit: `http://localhost:8000/docs`
 
 **Sample Prediction Request:**
@@ -121,7 +117,3 @@ If I were to take this to production, I would:
 1.  Replace the CSV storage with **PostgreSQL** or **Snowflake**.
 2.  Implement **MLflow** for experiment tracking.
 3.  Add **Redis** caching for the prediction endpoints to reduce latency.
-
----
-
-*Built with 💻 and ☕ by [Your Name/Username]*
