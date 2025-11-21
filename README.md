@@ -102,6 +102,36 @@ POST /predict/comprehensive
 }
 ```
 
+**Sample Output:**
+```json
+{
+  "clv": {
+    "customer_lifetime_value": 2450.50,
+    "clv_segment": "Medium Value",
+    "confidence": "high"
+  },
+  "churn": {
+    "churn_probability": 0.1250,
+    "churn_prediction": 0,
+    "risk_category": "Low Risk",
+    "top_risk_factors": [
+      "recency",
+      "frequency",
+      "monetary"
+    ]
+  },
+  "segment": {
+    "segment_id": 1,
+    "segment_name": "Loyal Regulars",
+    "distance_to_center": 1.2345,
+    "recommended_actions": [
+      "Send loyalty reward",
+      "Offer annual plan discount"
+    ]
+  }
+}
+```
+
 ## 🛠️ Tech Stack & Design Choices
 
 *   **Python 3.10**: For modern type hinting and performance.
