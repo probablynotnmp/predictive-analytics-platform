@@ -63,7 +63,7 @@ cd predictive-analytics-platform
 pip install -r requirements.txt
 ```
 
-### 2. Train the Brain
+### 2. Training
 Run the training pipeline to generate data and train the models from scratch:
 ```bash
 python src/models/model_trainer.py
