@@ -1,6 +1,6 @@
 # 📘 Comprehensive Project Instructions
 
-Welcome to **Nexus**, the AI-Powered Predictive Analytics Platform. This document provides step-by-step instructions for setting up, running, and deploying the project.
+Welcome to the **Predictive Analytics Platform**. This document provides step-by-step instructions for setting up, running, and deploying the project.
 
 ## 📋 Table of Contents
 1. [System Requirements](#system-requirements)
@@ -178,4 +178,4 @@ The API will be available at port `8000` and the Dashboard at port `8050`.
 
 ---
 
-**Enjoy building with Nexus!** 🚀
+**Enjoy building with the Predictive Analytics Platform!** 🚀

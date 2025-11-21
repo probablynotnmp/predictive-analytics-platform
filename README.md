@@ -1,4 +1,4 @@
-# 🔮 Nexus: AI-Powered Predictive Analytics Platform
+# 🔮 Predictive Analytics Platform
 
 > **"Predicting the future isn't magic, it's data science."**
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About The Project
 
-Hi there! I'm a recent AI & Data Science graduate, and **Nexus** is my flagship portfolio project. 
+Hi there! I'm a recent AI & Data Science graduate, and this **Predictive Analytics Platform** is my flagship portfolio project. 
 
 I built this platform to bridge the gap between raw customer data and actionable business insights. In the real world, data doesn't just sit there; it tells a story. My goal was to build a system that listens to that story and predicts the next chapter.
 
