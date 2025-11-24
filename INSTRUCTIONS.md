@@ -173,7 +173,6 @@ docker build -t customer-analytics .
 ```bash
 docker run -p 8000:8000 -p 8050:8050 customer-analytics
 ```
-
 The API will be available at port `8000` and the Dashboard at port `8050`.
 
 ---
